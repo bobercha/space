@@ -7,6 +7,8 @@ import java.util.Date;
 @Table(name = "ship")
 public class Ship {
 
+    
+    
 
     @Id
     @Column(name = "id")
